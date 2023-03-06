@@ -1,0 +1,1 @@
+<li class="list-inline-item"><a href="">{{$title}}</a></li>
